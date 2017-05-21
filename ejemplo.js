@@ -3,7 +3,7 @@ var data = [
 		"id" : 1,
 		"foto" : "img/publicacion.jpg",
 		"avatar" : "img/avatar2.jpg",
-		"usuario" : "Michael Villanueva",
+		"usuario" : "Michael Villanueva 2",
 		"contenido" : "Este curso esta padre",
 		"likes" : "0",
 		"fecha" : "Hace 1 hora"
